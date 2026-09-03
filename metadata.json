@@ -1,0 +1,6 @@
+{
+  "name": "Freelancer Bid Bot",
+  "description": "AI-powered automated bidding and proposal generation bot for freelancers to scan projects, match skills, and win high-converting jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
